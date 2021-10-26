@@ -36,6 +36,7 @@ Para crear una variable, es necesario declarar de que tipo se trata. Una variabl
 
 [Este es el codigo de el arudino de la interfaz de la nave ](https://github.com/DavidMenCam/Arduino/blob/main/variacion%201/lo_o_ko_k_l.ino)
 
+[video del interfaz en funcionamiento](https://youtu.be/ey4Wmv3uzh4)
 
 ## Variaciones
 
@@ -46,6 +47,14 @@ En esta variacion invertimos el funcionamiento del arduino ahora cuando el boton
 y aqui esta el ejemplo en video para que lo podais ver 
 
 [variacion 1 video](https://www.youtube.com/watch?v=Sl5UKPwK2mo)
+
+
+En la ultima añadimos un cuato led y repetimos el funcionamiento de la variacion 1 , la diferencia es que tenia un Led de mas 
+
+[video de la ultima variacion](https://youtu.be/B4rhuzqbJ8I)
+
+
+
 
 
 
