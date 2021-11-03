@@ -92,3 +92,7 @@ digitalWrite(4,HIGH),
  
  [version 6](https://github.com/DavidMenCam/Arduino/tree/main/arduino_ver_6)
  
+ Lo que hicimos en el ultimo fue una variante de colores en cada led hcaiendo que cada uno tuviera un color diferente
+ 
+ [version 7](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)
+ 
