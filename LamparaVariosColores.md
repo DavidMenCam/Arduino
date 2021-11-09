@@ -31,3 +31,17 @@ Los pulsos modeulados crean la ilusion de voltajes intermedios entre 0 y 5 volti
   Para ello isan pulsos muy gordos 
   
   Por otrro lado un numero entre 0 y 255 
+  
+  
+  
+## Lampara de colores 
+
+Hemos hecho una lampara algo dificl de hacer pero con un funcionamiento simple basicamente junto con christian y miguel angel hemos hecho que la lampara brille de varios colores depende que potencias gires dependera del color del LED.
+
+Aqui esta el codigo original sin ninguna variante 
+
+[Codigo principal](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)
+
+Despues hemos cambiadp el codigo haciendo una variacion , en esta variacion hemos sustituidos las potencias por los botones y cada boton era una luz y esa luz podias hacer que manteniendolo pulsado brillase mas y se apagase despues de un rato automaticamente 
+
+[Variacion 1](https://github.com/DavidMenCam/Arduino/blob/main/lampara_colores_variacion1/lampara_colores_variacion1.ino)
