@@ -10,10 +10,11 @@ En el codigo tuvimos un problema que cuando apagamos el boton el led se quedaba 
 asi arreglamos el problema.
 lo que hace el codigo es que el circuito funciona igual pero con el cambio que si el boton esta encendido el circuito esta encendido y si esta apagado el circuito se apaga.
 
+aqui esta el codigo modificado.
+
 ```const int greenLEDPin = 9;
 const int redLEDPin = 11;
 const int blueLEDPin = 10;
-
 const int redSensorPin = A0;
 const int greenSensorPin = A1;
 const int blueSensorPin = A2;
@@ -59,27 +60,20 @@ redSensorValue = analogRead(redSensorPin);
   analogWrite(redLEDPin, redValue);
   analogWrite(greenLEDPin, greenValue);
   analogWrite(blueLEDPin, blueValue);
-  
-}
-
+  }
 void apagarLampara(){
    analogWrite(redLEDPin, 0);
   analogWrite(greenLEDPin, 0);
   analogWrite(blueLEDPin, 0);
 }
-
 void loop() {
- 
-    checkButton();
+ checkButton();
   if (play) {
-     encenderLampara();
-  }
+     encenderLampara();}
   else {
     apagarLampara();
-    }
-  
+    }  
 }
-
 void checkButton(){
   switchState = digitalRead(buttonPin);
   Serial.println(switchState);
@@ -87,10 +81,8 @@ void checkButton(){
     play = !play;
     isTheButtonBeingPressed = true;
   }
-  
   if (switchState == LOW)
   {
   isTheButtonBeingPressed = false;
   }
-
 }
