@@ -1,6 +1,6 @@
 ## SNIPPET
 
-Comenzamos con el mismo concepto y codigo que el de la lampara de colores Con el mimso codigo  todo haciendo que la luz cambiara de color con los potenciadores 
+Trabajo hecho con miguel angel y yo Comenzamos con el mismo concepto y codigo que el de la lampara de colores Con el mimso codigo  todo haciendo que la luz cambiara de color con los potenciadores 
 
 Tuvimos algunos problemas pero despues del codigo  empezamos cambieando el codigo actual .
 
