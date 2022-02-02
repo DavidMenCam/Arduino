@@ -1,6 +1,6 @@
 # Joystick
 
-El dia de hoy eh trabjado junto con miguel angel , hoy nos dieron un peuqeño joystick que teniamos que conectar al arduino para ver si funcionaba en condiciones .
+El dia de hoy eh trabjado junto con [Miguel Angel](https://github.com/miguelamgel1107), hoy nos dieron un peuqeño joystick que teniamos que conectar al arduino para ver si funcionaba en condiciones .
 con un codigo que revisa todas sus acciones en la herramienta de monitor serie. Eh aqui su codigo 
 
 ```c++
