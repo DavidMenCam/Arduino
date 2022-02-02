@@ -53,3 +53,7 @@ else {
 Aqui una imagen de como va conectado el sensor al arduino.
 
  ![](https://github.com/DavidMenCam/Arduino/blob/main/IMG_20220202_123646.jpg?raw=true)
+ 
+ ### informacion extra : 
+ 
+ cuando la humedad sube mucho es bastante mas complicadio alterar la temperatura que recibe el sensor . 
