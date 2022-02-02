@@ -4,4 +4,4 @@ las instrucciones de davi
 mientras poniamos el codigo oh parte de el paa ver e
 su funcionamiento 
 
- ![](file:///home/usuario/Descargas/IMG_20220202_123646.jpg)
+ ![](https://github.com/DavidMenCam/Arduino/blob/main/IMG_20220202_123646.jpg?raw=true)
